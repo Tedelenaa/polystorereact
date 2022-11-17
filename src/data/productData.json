@@ -1,0 +1,64 @@
+{
+  "product_categories": [
+    {
+      "id": 1,
+      "img": "./images/hero_image.png",
+      "category_title": "Fashion",
+      "category_description": "lorem ipsum ipsum lorem whareva you say"
+    },
+    {
+      "id": 2,
+      "img": "./images/hero_image.png",
+      "category_title": "Electronics",
+      "category_description": "lorem ipsum ipsum lorem whareva you say"
+    },
+    {
+      "id": 3,
+      "img": "./images/hero_image.png",
+      "category_title": "Hygiene and Self Care",
+      "category_description": "lorem ipsum ipsum lorem whareva you say"
+    }
+  ],
+
+  "fashion": [
+    {
+      "id": 1,
+      "img": "./images/hero_image.png",
+      "fashion_title": "Wears",
+      "fashion_description": "lorem ipsum ipsum lorem whareva you say"
+    },
+    {
+      "id": 3,
+      "img": "./images/hero_image.png",
+      "fashion_title": "Shoes",
+      "fashion_description": "lorem ipsum ipsum lorem whareva you say"
+    },
+    {
+      "id": 1,
+      "img": "./images/hero_image.png",
+      "fashion_title": "Accessories",
+      "fashion_description": "lorem ipsum ipsum lorem whareva you say"
+    }
+  ],
+
+  "electronics": [
+    {
+      "id": 1,
+      "img": "./images/hero_image.png",
+      "electronics_title": "Home Appliances",
+      "electronics_description": "lorem ipsum ipsum lorem whareva you say"
+    },
+    {
+      "id": 2,
+      "img": "./images/hero_image.png",
+      "electronics_title": "Home Appliances",
+      "electronics_description": "lorem ipsum ipsum lorem whareva you say"
+    },
+    {
+      "id": 3,
+      "img": "./images/hero_image.png",
+      "electronics_title": "Home Appliances",
+      "electronics_description": "lorem ipsum ipsum lorem whareva you say"
+    }
+  ]
+}

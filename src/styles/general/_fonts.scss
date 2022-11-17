@@ -1,0 +1,26 @@
+// h1, h2, h3, h5, p,
+
+@mixin H1Fonts {
+  font-size: 3rem;
+  font-weight: 400;
+}
+
+@mixin H2Fonts {
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+@mixin H3Fonts {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+@mixin H5Fonts {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+@mixin PFonts {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
